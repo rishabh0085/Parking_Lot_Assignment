@@ -113,3 +113,14 @@ Displaying Parking Lot Status
 4.Vehicles are assigned spaces based on availability.
 
 5.Floor capacity and costs are configurable during initialization.
+
+# Future Enhancements
+
+1.Database Integration: Replace in-memory storage with persistent storage.
+
+2.UI Interface: Add graphical or web-based user interfaces.
+
+3.Reservation System: Allow pre-booking of parking spaces.
+
+4.Dynamic Pricing: Support surge pricing based on time or demand.
+
